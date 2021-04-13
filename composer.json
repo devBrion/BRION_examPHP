@@ -1,0 +1,14 @@
+{
+    "name": "celine/exam_brion",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.6",
+        "components/jquery": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "Celine Brion",
+            "email": "brionceline@live.fr"
+        }
+    ]
+}
