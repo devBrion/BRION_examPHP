@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '7e0c3ae2c541e454f926a40d6b133c82a1575630',
     'name' => 'celine/exam_brion',
   ),
   'versions' => 
   array (
     'celine/exam_brion' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '7e0c3ae2c541e454f926a40d6b133c82a1575630',
     ),
     'components/jquery' => 
     array (
